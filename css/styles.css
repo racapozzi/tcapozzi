@@ -8,5 +8,5 @@ h1{
 }
 
 #introduction{
-  float: right;
+  float:inherit;
 }
