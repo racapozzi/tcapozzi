@@ -8,6 +8,10 @@ h1{
   border-radius: 50%;
 }
 
+#intro_p{
+  float: left;
+}
+
 #introduction{
   float: right;
 }
