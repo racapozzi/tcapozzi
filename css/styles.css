@@ -1,4 +1,6 @@
 h1{
-  font: 205px/1.5 Arial, Helvetica, sans-serif;
+  font-size: 205px;
+  line-height: 1.5;
+  font-family: Arial, Helvetica, sans-serif;
   color: grey;
 }
