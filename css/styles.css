@@ -6,3 +6,7 @@ h1{
 .rounded img{
   border-radius: 50%;
 }
+
+#introduction{
+  float: right;
+}
