@@ -11,5 +11,6 @@ body{
 }
 
 #intro_p{
+  margin:auto;
   margin-right: 30em;
 }
