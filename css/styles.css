@@ -1,24 +1,6 @@
-header{
-  background-color: #030019;
-}
-
-body{
-  font-family: Arial, Helvetica, sans-serif;
-  background-color: #f4f4f4;
-}
-
 .rounded img{
   float: left;
   border-radius: 50%;
   margin-right: 20px;
   border: 3px solid #bfbfbf;
-}
-
-h1{
-  color: #ffffff;
-}
-
-#intro_p{
-  margin-right: 30em;
-  color: #ffffff;
 }
