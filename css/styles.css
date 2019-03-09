@@ -6,7 +6,7 @@ body{
   float: left;
   border-radius: 50%;
   margin-right: 20px;
-  border: 3px solid cyan;
+  border: 3px solid #3399ff;
 }
 
 #intro_p{
