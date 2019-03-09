@@ -14,6 +14,10 @@ body{
   border: 3px solid #bfbfbf;
 }
 
+h1{
+  color: #ffffff;
+}
+
 #intro_p{
   margin-right: 30em;
   color: #ffffff;
