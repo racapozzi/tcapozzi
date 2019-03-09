@@ -1,5 +1,5 @@
 header{
-  background-color: #004080;
+  background-color: #030019;
 }
 
 body{
@@ -11,9 +11,10 @@ body{
   float: left;
   border-radius: 50%;
   margin-right: 20px;
-  border: 3px solid #3399ff;
+  border: 3px solid #bfbfbf;
 }
 
 #intro_p{
   margin-right: 30em;
+  color: #ffffff;
 }
